@@ -29,17 +29,17 @@ The script includes a function calculate_channeltype_distribution which:
 Takes a DataFrame and the number of top channels to analyze.
 Returns the distribution of channel types
 
-#Deployment
+# Deployment
 Ensure that all necessary software is installed.
 The youtube_dataset.csv file should be placed in the project folder.
 To create the analysis and output files, run the script.
  
-#Author 
+# Author 
 Bhavya
 
-#License
+# License
 The project is licensed under MIT license, See the file License file for details
 
 
-#Acknowledgement
+# Acknowledgement
 Thanks to the professor for sharing knowledge 
