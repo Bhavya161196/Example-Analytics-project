@@ -38,7 +38,8 @@ To create the analysis and output files, run the script.
 Bhavya
 
 #License
-
+The project is licensed under MIT license, See the file License file for details
 
 
 #Acknowledgement
+Thanks to the professor for sharing knowledge 
