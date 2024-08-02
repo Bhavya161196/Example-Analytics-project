@@ -28,6 +28,7 @@ Check to see if the distribution that was returned matches the intended output.
 The script includes a function calculate_channeltype_distribution which:
 Takes a DataFrame and the number of top channels to analyze.
 Returns the distribution of channel types
+The top_1000_df contains the top 1000 data from the dataset and will be saved in a csv file at the preferred location.
 
 # Deployment
 Ensure that all necessary software is installed.
